@@ -4,5 +4,3 @@
 numbers.
 
 ◦ Implemented the 37-page long algorithm to calculate the 3 palindromic numbers in C++ using OOP concepts.
-
-◦ Fuzz-tested the code to find bugs.
